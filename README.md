@@ -6,7 +6,7 @@ A simple Dad Jokes Generator built with HTML, CSS and JavaScript that fetches ra
 A fun and simple web app that shows a new random **Dad Joke** every time you click the button!
 
 ## 🚀 Live Demo
-👉 https://mr-syntax1.github.io/dad-jokes-generator/
+👉 [View on GitHub Pages](https://mr-syntax1.github.io/dad-jokes-generator/)
 
 ## ✨ Features
 - Pure Frontend (HTML / CSS / JavaScript)
